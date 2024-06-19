@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+<body>
+    <h1>Application Form</h1>
+   <div>
+    First Name <input type="name">
+    Last Name <input type="name">
+   </div>
+    <br>
+  <div>
+    Date of birth <input type="dob">
+    Age <input type="age">
+  </div>
+    <br>
+   <div> Gender
+    <select id="gender" name="gender">
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+        <option value="other">Other</option>
+        <option value="prefer_not_to_say">Prefer not to say</option>
+    </select>
+    <span>Email address <input type="enter your email"> 
+    </div>
+    <br>
+  <div>
+    Position Available <input type="radio" name="" id=""> Junior developer <input type="radio" name="" id=""> Mid-level developer <input type="radio" name="" id=""> Senior developer
+  </div>
+    <br>
+    <div>
+        Programming Languages <input type="radio" name="" id=""> Java <input type="radio" name="" id=""> Java script <input type="radio" name="" id=""> Phython
+    </div>
+    <br>
+    <div>
+        Password <input type="password">
+        Confirm password <input type="password">
+    </div>
+    <br>
+    <button>Subbmit</button>
+    <button>Reset</button>
+       
+</body>
+
+</html>
