@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>About HTML</h1>                                                   <!--this is main heading-->
+    <p>HyperText Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. Idefines the content and structure of web content.</p>                 <!-- <p> tag for paragraph-->
+        <h2>Who created html</h2>                                         <!--this is second heading-->
+        <p>HTML was created by Sir Tim Berners-Lee in late 1991 but was not officially released. It was published in 1995 </p>
+        <img src="https://imgs.search.brave.com/E_kJMqKez_2AvoATXaMGzuNHPP0nOmSVRkE1P6eMGIs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/aW50ZXJuZXRoYWxs/b2ZmYW1lLm9yZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8w/OS9CZXJuZXJzLUxl/ZV9UaW0uanBn" alt=""> <!--img tag is used to embed an image in an HTML page-->
+        <h3>Latest version of html</h3><!---this is third heading-->
+        <p>The latest version of HTML is HTML5</p>
+
+</body>
+</html>
