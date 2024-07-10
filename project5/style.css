@@ -1,0 +1,108 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-top: 50px;
+}
+
+.box1{
+    background-color: white;
+    border-radius: 4px;
+    margin-top: 30px;
+    height: 400px;
+    width: 255px;
+    border: solid #e88214;
+}
+
+.box1 h2{
+    margin-left: 20px;
+}
+
+.box1 p{
+    font-size: medium;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.box2{
+    background-color: white;
+    border-radius: 4px;
+    margin-top: 30px;
+    height: 400px;
+    width: 255px;
+    border: solid #00838F ; 
+}
+
+.box2 h2{
+    margin-left: 20px;
+}
+
+.box2 p{
+    font-size: medium;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.box3{
+    background-color: white;
+    border-radius: 4px;
+    margin-top: 30px;
+    height: 400px;
+    width: 255px;
+    border: solid #194345;
+}
+
+.box3 h2{
+    margin-left: 20px;
+}
+
+.box3 p{
+    font-size: medium;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+button{
+    border-radius: 20px;
+    height: 30px;
+    margin-left: 20px;
+}
+.box1 button{
+   color: #e88214;
+   margin-top: 150px;
+
+}
+.box2 button{
+    color: #00838F;
+    margin-top: 150px;
+}
+.box3 button{
+    color: #194345;
+    margin-top: 150px;
+}
+
+/* hover effect */
+
+.box1:hover:hover{
+    background-color:#e88214 ;
+    color: white;
+    height: 450px;
+    width: 300px;
+}
+.box2:hover:hover{
+    background-color: #00838F;
+    color: white;
+    height: 450px;
+    width: 300px;
+}
+.box3:hover:hover{
+    background-color: #194345;
+    color: white;
+    height: 450px;
+    width: 300px;
+}
+
